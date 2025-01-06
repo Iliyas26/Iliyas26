@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on UI and API automation using C# .Net, Selenium, Playwright, RestSharp n <br>👯 I’m looking to collaborate on Automation Architecture and AI implementation in automation.<br>🌱 I’m currently learning python and AI in automation.<br>💬 Ask me about .Net, python, UI, API, Mobile automation <br>
+🔭 I’m currently working on UI and API automation using C# .Net, TypeScript, Selenium, Playwright, RestSharp n <br>👯 I’m looking to collaborate on Automation Architecture and AI implementation in automation.<br>🌱 I’m currently learning python and AI in automation.<br>💬 Ask me about .Net, python, UI, API, Mobile automation <br>
 
 
 ## 🌐 Socials:
